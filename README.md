@@ -9,4 +9,4 @@ DE-10Lite Pin Configuration
 ## simulation
 ![alt text](https://github.com/Abram1111/calculatro/blob/main/Screenshot%20(96).png)
 ## final block
-![alt text](https://i.imgur.com/8hBqasN.png)
+![alt text](https://github.com/Abram1111/calculatro/blob/main/Screenshot%202022-06-08%20080038.png)
