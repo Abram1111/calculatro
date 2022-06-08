@@ -2,7 +2,7 @@
 Using terasic's DE-10Lite FPGA, this verilog code acts as a calculator, summing together two 4-bit binary numbers and displaying the sum on a 7-segment number display in decimal.
 
 ## our design
-![alt text]()
+![alt text](https://github.com/Abram1111/calculatro/blob/main/WhatsApp%20Image%202022-06-02%20at%2011.57.12%20PM.jpeg)
 
 DE-10Lite Pin Configuration
 
