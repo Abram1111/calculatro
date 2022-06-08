@@ -3,6 +3,7 @@ Using terasic's DE-10Lite FPGA, this verilog code acts as a calculator, summing 
 
 ## our design
 ![alt text](https://github.com/Abram1111/calculatro/blob/main/WhatsApp%20Image%202022-06-02%20at%2011.57.12%20PM.jpeg)
+## hardware
 
 DE-10Lite Pin Configuration
 
